@@ -80,8 +80,6 @@ For this Lab, you will create a website for a fictitious Geltao shop in southern
 
 13. Finally, write a media query for the largest view. In it, prevent the flex container within the hero banner from growing any larger than the top-level links in your ``<nav>``.
 
-### On Your Own
-
 14. Style the main area of the website using flex properties. 
 
 **Hint**: How can we horizontally align things to the right-hand side of a flex container? How can we vertically centre things within a flex container? 
